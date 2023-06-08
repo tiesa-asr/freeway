@@ -11,3 +11,7 @@ Use up and down arrows keys to move the chicken and avoid the cars.
 ## Demo
 
 [Click here to play the game](https://editor.p5js.org/tiesa-asr/full/JxWXRvrte).
+
+Preview
+
+<img src="./freeway-preview.gif" />
